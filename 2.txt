@@ -1,0 +1,6 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   Dmitr    1395       1 ?        11:59:42 /usr/bin/mintty
+   Dmitr    1340       1 ?        10:59:34 /usr/bin/mintty
+   Dmitr    1341    1340 pty0     10:59:34 /usr/bin/bash
+   Dmitr    1531    1396 pty1     12:53:10 /usr/bin/ps
+   Dmitr    1396    1395 pty1     11:59:42 /usr/bin/bash
